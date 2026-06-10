@@ -1,5 +1,11 @@
 <img src="https://raw.githubusercontent.com/DaniglezW/DaniglezW/main/assets/banner-cyberpunk-pixel.png" width="100%" alt="Cyberpunk pixel art developer workspace banner"/>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d0221&height=8&section=header&animation=none"/>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center" style="background-color: #0d0221; color: #c9d1d9; padding: 24px 16px;">
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Microservicios;Angular+%7C+React;Construyendo+software+escalable;Siempre+aprendiendo+%F0%9F%9A%80"/>
 </p>
@@ -14,7 +20,7 @@
 <tr>
 <td valign="top" width="55%" style="border: none;">
 
-### 🚀 Sobre mí
+<h3 align="left" style="color: #00ffff;">🚀 Sobre mí</h3>
 
 - 💻 Full Stack Developer
 - 🏢 Experiencia profesional en Atos
@@ -32,44 +38,42 @@
 </tr>
 </table>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=331255&height=2&section=footer&animation=none"/>
 
-## 🛠️ Stack tecnológico
+<h3 align="center" style="color: #00ffff;">🛠️ Stack tecnológico</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,angular,react,ts,js,html,css,postgres,mysql,git,docker,kubernetes,python,figma" />
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=331255&height=2&section=footer&animation=none"/>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DaniglezW&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniglezW&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
----
-
-## 🔥 Racha de contribuciones
+<h3 align="center" style="color: #00ffff;">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaniglezW&theme=radical"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DaniglezW&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=00ffff&text_color=c9d1d9&icon_color=ff00ff&cache_seconds=1800"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniglezW&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=00ffff&text_color=c9d1d9&cache_seconds=1800"/>
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=331255&height=2&section=footer&animation=none"/>
 
-## 🐍 Snake contributions
+<h3 align="center" style="color: #00ffff;">🔥 Racha de contribuciones</h3>
 
 <p align="center">
-  <picture>
-    <img src="https://raw.githubusercontent.com/DaniglezW/DaniglezW/output/github-snake.gif" alt="Snake eating GitHub contributions"/>
-  </picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaniglezW&theme=radical&background=0D0221&border=331255&stroke=00ffff&ring=ff00ff&fire=ff00ff&currStreakLabel=00ffff&sideLabels=00ffff&dates=c9d1d9"/>
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=331255&height=2&section=footer&animation=none"/>
 
-## 📫 Contacto
+<h3 align="center" style="color: #00ffff;">🐍 Snake contributions</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DaniglezW/DaniglezW/output/github-snake.gif" alt="Snake eating GitHub contributions"/>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=331255&height=2&section=footer&animation=none"/>
+
+<h3 align="center" style="color: #00ffff;">📫 Contacto</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-gonzález-lorenzo/">
@@ -85,5 +89,9 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,100:1a0533&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=00ffff"/>
 </p>
+
+</td>
+</tr>
+</table>
