@@ -62,7 +62,11 @@
 ## 🐍 Snake contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DaniglezW/DaniglezW/output/github-contribution-grid-snake.gif"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaniglezW/DaniglezW/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaniglezW/DaniglezW/output/github-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/DaniglezW/DaniglezW/output/github-snake.gif" alt="Snake eating GitHub contributions"/>
+  </picture>
 </p>
 
 ---
