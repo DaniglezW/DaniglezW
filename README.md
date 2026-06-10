@@ -63,8 +63,6 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaniglezW/DaniglezW/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaniglezW/DaniglezW/output/github-snake.svg"/>
     <img src="https://raw.githubusercontent.com/DaniglezW/DaniglezW/output/github-snake.gif" alt="Snake eating GitHub contributions"/>
   </picture>
 </p>
@@ -80,6 +78,10 @@
   <a href="mailto:dani.flex.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-dani.flex.work@gmail.com-ff00ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0221"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DaniglezW&label=Visitas&color=00ffff&style=for-the-badge&labelColor=0d0221"/>
 </p>
 
 <p align="center">
