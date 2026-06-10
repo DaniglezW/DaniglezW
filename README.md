@@ -85,12 +85,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DaniglezW&label=Visitas&color=00ffff&style=for-the-badge&labelColor=0d0221"/>
+  <img src="https://komarev.com/ghpvc/?username=DaniglezW&label=Visitas&color=000000&style=for-the-badge&labelColor=0d0221"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,100:1a0533&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=00ffff"/>
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:6a0dad&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff"/>
 
 </td>
 </tr>
