@@ -8,9 +8,11 @@
   Apasionado por la tecnología, el aprendizaje continuo y la creación de software escalable.
 </p>
 
----
+<table>
+<tr>
+<td valign="top" width="55%">
 
-## 🚀 Sobre mí
+### 🚀 Sobre mí
 
 - 💻 Full Stack Developer
 - 🏢 Experiencia profesional en Atos
@@ -18,6 +20,15 @@
 - 🎨 Frontend con Angular y React
 - 🧠 En constante aprendizaje y mejora
 - 🌍 España
+
+</td>
+<td valign="top" width="45%" align="center">
+
+<img src="https://raw.githubusercontent.com/DaniglezW/DaniglezW/main/assets/developer.gif" alt="Developer animation" width="320"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -50,14 +61,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DaniglezW/DaniglezW/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-## ✨ Animación typing
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot;Full+Stack+Developer;Angular+%7C+React;Microservicios;Siempre+aprendiendo"/>
 </p>
 
 ---
