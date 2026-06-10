@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/DaniglezW/DaniglezW/main/assets/banner-cyberpunk.png" width="100%" alt="Cyberpunk banner — Dani · Full Stack Developer"/>
+<img src="https://raw.githubusercontent.com/DaniglezW/DaniglezW/main/assets/banner-cyberpunk-pixel.png" width="100%" alt="Cyberpunk pixel art developer workspace banner"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Microservicios;Angular+%7C+React;Construyendo+software+escalable;Siempre+aprendiendo+%F0%9F%9A%80"/>
